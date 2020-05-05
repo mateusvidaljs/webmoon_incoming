@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  box-sizing: border-box;
+  line-height: 1.5em;
+}
+
+body {
+  font: 400 16px 'Montserrat', sans-serif;
+  background: #024BFF;
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+}
+
+input, button, textarea {
+  font: 400 15px 'Montserrat', sans-serif;
+  vertical-align: middle;
+}
+
+button {
+  cursor: pointer;
+}
+
+a {
+  text-decoration: none;
+}
